@@ -1,1 +1,1 @@
-### i3 config files & more
+### i3 config files
